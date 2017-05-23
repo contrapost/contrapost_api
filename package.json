@@ -1,0 +1,19 @@
+{
+  "name": "contrapost-api",
+  "version": "1.0.0",
+  "description": "\"restful api for contrapost web site\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contrapost/contrapost_api.git"
+  },
+  "author": "contrapost",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/contrapost/contrapost_api/issues"
+  },
+  "homepage": "https://github.com/contrapost/contrapost_api#readme"
+}
